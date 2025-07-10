@@ -215,6 +215,7 @@ Technology companies that allow remote work in Japan.
 | [株式会社コドモン](https://www.codmon.com/) |「子どもを取り巻く環境をテクノロジーの力でよりよいものに」をミッションとし、主力プロダクトである保育・教育施設向けICTサービス「CoDMON(コドモン)」をはじめとし、子育てに優しい社会に変わるよう多角的に事業を展開しています。<br>[エンジニア採用ページ](https://codmon.notion.site/recruit-engineer) / [求人一覧](https://herp.careers/v1/codmon/requisition-groups/8b8f9990-a614-45c5-8b9d-492b4bc5894e)| :ok_hand: |
 | [株式会社IDCフロンティア](https://www.idcf.jp/) | 「デジタルインフラを担う上で安全・安心にこだわりながら、常に挑戦を続け、お客さまがインフラレイヤーを意識することなく利用できる未来を目指しています。データセンター事業やクラウド事業、ホスティングサービスなど幅広く展開しています。<br>[会社概要](https://www.idcf.jp/company/about/) <br>[採用ページ](https://www.idcf.jp/recruit/) | :ok_hand: |
 | [株式会社ビートバップ](https://beatbop.jp/) | 私たちビートバップは「メタバースで世界をワクワクさせる」をミッションに、革新的なソリューションを開発する企業です 。完全フルリモートワーク体制を導入し、メンバー一人ひとりが時間や場所に捉われず、最高のパフォーマンスを発揮できる環境を重視しています。教育機関向け「ネクストデジタルスキルラボ」、法人向けメタバース「BizHubメタ」、イベント開催向け「ビートバップメタバースハイスクール」、人気ゲームプラットフォームFortniteを活用したプロモーション受託開発など、その事業は多岐にわたります 。3DCG、ゲームエンジン、生成AI、Three.js、ReactThreeFiberといった先端技術を駆使し、お客様のニーズを第一に考えた「ビジネス力」で、新たな価値創造と課題解決に貢献しています。<br>[事業ページ](https://beatbop.jp/next_digital_skill_lab/) | :ok_hand: |
+| [株式会社ACCESS](https://www.access-company.com/) | 株式会社ACCESSは、モバイル、クラウド、ブラウザ、ビーコンなどIoT時代をリードする先進技術の企画・開発・提供を通じて、より豊かな社会と暮らしの創造を目指します。<br>[採用情報](https://www.access-company.com/recruit/) | :ok_hand: |
 
 ## Contributing
 
